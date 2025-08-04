@@ -22,3 +22,6 @@ Simon-Game/
 ├── simongame.js # JavaScript logic
 └── README.md # Project documentation
 
+#Project Deploy Link :
+https://6890acee24b5513a768c0026--sprightly-crostata-3aa3db.netlify.app/
+
